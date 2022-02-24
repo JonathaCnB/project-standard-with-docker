@@ -4,3 +4,4 @@ Pillow
 flake8
 black
 isort
+psycopg2-binary
