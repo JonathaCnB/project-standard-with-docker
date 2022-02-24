@@ -1,0 +1,6 @@
+Django
+django-environ
+Pillow
+flake8
+black
+isort
