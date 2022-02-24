@@ -146,8 +146,11 @@ cython_debug/
 # other
 .pylintrc
 static/admin/
-local_settings.py
 .bashrc
-otherfiles/
-growpier_uwsgi.ini
 .editorconfig
+
+.idea
+.coverage
+
+staticfiles/
+mediafiles/
